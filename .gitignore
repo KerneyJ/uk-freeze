@@ -1,4 +1,4 @@
-/.config*
+/.config.*
 /rootfs/
 /.unikraft/
 /workdir/build
