@@ -1,0 +1,15 @@
+[submodule "workdir/libs/python3"]
+	path = workdir/libs/python3
+	url = git@github.com:unikraft/lib-python3.git
+[submodule "workdir/libs/compiler-rt"]
+	path = workdir/libs/compiler-rt
+	url = git@github.com:unikraft/lib-compiler-rt.git
+[submodule "workdir/libs/lwip"]
+	path = workdir/libs/lwip
+	url = git@github.com:unikraft/lib-lwip.git
+[submodule "workdir/libs/musl"]
+	path = workdir/libs/musl
+	url = git@github.com:unikraft/lib-musl.git
+[submodule "workdir/unikraft"]
+	path = workdir/unikraft
+	url = git@github.com:unikraft/unikraft.git
